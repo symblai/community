@@ -1,6 +1,4 @@
 
-![Git workflow](git_workflow.png)
-
 ## 1. Fork in the cloud
 
 1. Visit the repo in which would like to contribute to
