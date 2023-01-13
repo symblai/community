@@ -30,7 +30,7 @@ It is recommended that you follow these steps in order:
 - [Welcome](#welcome) - this page 
 - [Prerequisites](#prerequisites) - tasks you need to complete before
   you can start contributing
-- [Contributing](./contributing.md) - the main reference guide to contributing
+- [Contributing](./contributor.md) - the main reference guide to contributing
 
 ## Prerequisites
 
@@ -71,6 +71,6 @@ do not need to interact with regularly.
 
 - TBD
 
-[Code of Conduct]: /code-of-conduct.md
+[Code of Conduct]: /CODE_OF_CONDUCT.md
 [Contributing]: ./contributing.md
 [Developer Resources]: /process/developer.md
