@@ -1,5 +1,12 @@
 # Development Guide
 
+- [Development Guide](#contributor-guide)
+  - [Welcome](#welcome)
+  - [Pre submit flight checks](#pre-submit-flight-checks)
+  - [GitHub Workflow](#gitHub-workflow)
+
+## Welcome
+
 This document is the canonical source of truth for things like supported
 toolchain versions for building projects in the [symblai](https://github.com/symblai) org.
 
@@ -204,7 +211,7 @@ You are now ready to clone projects in the [symblai](https://github.com/symblai)
 
 If you are running on Linux or macOS, you will need bash version installed to be >4.3.
 
-## GitHub workflow
+## GitHub Workflow
 
 To check out code to work on, please refer to [this guide](/process/github-workflow.md).
 

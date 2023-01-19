@@ -9,7 +9,7 @@
     - [Sign the CLA](#sign-the-cla)
     - [Code of Conduct](#code-of-conduct)
     - [Setting up your development environment](#setting-up-your-development-environment)
-    - [Community Expectations and Roles](#community-expectations-and-roles)
+    - [Community Expectations](#community-expectations)
   - [Advanced Topics](#advanced-topics)
 
 ## Welcome
@@ -31,6 +31,7 @@ It is recommended that you follow these steps in order:
 - [Prerequisites](#prerequisites) - tasks you need to complete before
   you can start contributing
 - [Contributing](./contributor.md) - the main reference guide to contributing
+- [Advanced Topics](#advanced-topics)
 
 ## Prerequisites
 
@@ -44,21 +45,25 @@ Before you get started, you will need to [signup](http://github.com/signup) for 
 
 ### Create a Symbl Platform account
 
-TODO  
+Since this community is everything about [Symbl.ai][symblai], you will need to [Sign Up][signup] and create an account on the [Symbl.ai Platform][signup].
+
+### Sign the CLA
+
+TODO
 
 ### Code of Conduct
 
-Please make sure to read and observe the [Code of Conduct].
+Please make sure to read and observe the [Code of Conduct][code_of_conduct].
 
 ### Setting up your development environment
 
 It is not required to set up a developer environment in order to contribute to
 Symbl.ai's community designated projects.
 
-If you plan to contribute code changes, review the [developer resources] page
+If you plan to contribute code changes, review the [Developer Resources][developer_resources] page
 for how to set up your environment.
 
-## Community
+## Community Expectations
 
 The goal is to create a large, lively, friendly open-source community. As many open
 source projects often do, it depends on new people becoming members and regular
@@ -71,6 +76,8 @@ do not need to interact with regularly.
 
 - TBD
 
-[Code of Conduct]: /CODE_OF_CONDUCT.md
+[code_of_conduct]: /CODE_OF_CONDUCT.md
 [Contributing]: ./contributing.md
-[Developer Resources]: /process/developer.md
+[developer_resources]: /process/developer.md
+[symblai]: https://symbl.ai
+[signup]: https://platform.symbl.ai/#/signup?utm_source=github&utm_medium=github&utm_campaign=symbl-repo
