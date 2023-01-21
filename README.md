@@ -10,7 +10,7 @@ To learn more about the project structure and organization, please refer to the 
 
 ## Code of Conduct
 
-To participate in the Community, you agree to adhere to the rules of [Governance][project_governance] and also agree to the [Code Of Conduct][code_of_conduct] for the community.
+To participate in the Community, you also agree to the [Code Of Conduct][code_of_conduct] for the community.
 
 The main points in the Code of Conduct are:
 - treat others how you want to be treated
@@ -19,7 +19,32 @@ The main points in the Code of Conduct are:
 
 ## Where to Get Started
 
-TODO
+Here are a collection of articles, blogs, GitHub repos, source code, etc that might be helpful in your journey into extracting insights from conversation. This covers everything for beginners (Level 1) to seasoned conversation veterans (Level 4). This will evolve over time as the landscape and capabilities change!
+
+### Level 1: I'm a newbie, help me out!
+
+- `[Video]` Introduction to Conversation Understanding: https://youtu.be/OZxlr32ShdY?t=1542
+- `[Video]` Introduction to the Symbl Platform (older and needs a refresh but still good): https://www.loom.com/share/36c2df84f5d944068c1cd0238944ba95
+- More to come...
+
+### Level 2: I'm Familiar with the Conversation Landscape, Show Me Some Code!
+
+- `[Blog]` Understanding the Symbl Platform via a Walkthrough: [Help! I Want to Make My Apps Conversation Aware](https://symbl.ai/blog/make-apps-conversation-aware)
+- `[Blog + Code]` Beginners to Consuming Symbl Platform APIs by Code: [I Want Conversation Enabled Code! Where Do I Start?](https://symbl.ai/blog/i-want-conversation-enabled-code-where-do-i-start)
+- `[Code]` [Getting Started Samples Repo](https://github.com/symblai/getting-started-samples/) - Showcased in the blgo above, contains a bunch of simple `main` style applications in NodeJS that exercise various Symbl Platform APIs
+- More to come...
+
+### Level 3: Let's Go Beyond the Basics
+
+- `[Code]` Example of a Sizable Project: [Open Virtual Assistant](https://github.com/dvonthenen/open-virtual-assistant)
+- More to come...
+
+### Level 4: Advanced Topics, Code, and Stuff
+
+- `[Blog]` [Understanding Enterprise Architecture for Conversation Aggregation](https://symbl.ai/blog/understanding-enterprise-architecture-for-conversation-aggregation/)
+- `[Blog]` [Everything to Know About Enterprise Reference Implementation for Conversation Aggregation](https://symbl.ai/blog/everything-to-know-about-enterprise-reference-implementation-for-conversation-aggregation/)
+- `[Code]` GitHub repo for [Enterprise Reference Implementation](https://github.com/dvonthenen/enterprise-reference-implementation) discussed in the blog above
+- More to come...
 
 ## How to Contribute
 
@@ -33,6 +58,16 @@ The [Contributor Guide](process/contributor.md) provides detailed instruction on
 
 The [Developer Guide](process/developer.md) provides detailed instructions on how to bootstrap yourself into running, building, and viewing projects/code relating to the Symbl.ai Platform.
 
+### Design, Process, Large Pieces of Work Proposal Process
+
+For larger pieces of work that involve changes, such as Design, Process, Code, etc, a design proposal must be submitted in order to:
+
+- Have a written record of the proposal stating goals, design, etc
+- Preserve significant historical change for the community
+- To allow others in the community to provide feedback and improve the proposal
+
+To submit a proposal, use the [design proposal template][design_proposal] and submit a PR against this repo and place your proposal in the `design` folder.
+
 ## Training Materials
 
 This initiative is about to get kicked off shortly. The intent is to provide training videos that:
@@ -42,38 +77,38 @@ This initiative is about to get kicked off shortly. The intent is to provide tra
 ### Book 1: Asynchronous Insights
 
 *Training Videos Chapters:*
-- Symbl.ai 101 - What is Symbl.ai? What Does the Symbl Platform do?
-- Transcription - The Skeleton of a Conversation
-- Redaction - I Didn’t Say That!
-- Topics - What You Talkin’ About Wills?
-- Questions, Follow-Ups and Action Items - Oh My!
-- Entities - Am I an Entity?
+- **(TODO)** Symbl.ai 101 - What is Symbl.ai? What Does the Symbl Platform do?
+- **(TODO)** Transcription - The Skeleton of a Conversation
+- **(TODO)** Redaction - I Didn’t Say That!
+- **(TODO)** Topics - What You Talkin’ About Wills?
+- **(TODO)** Questions, Follow-Ups and Action Items - Oh My!
+- **(TODO)** Entities - Am I an Entity?
   - Include Custom Entities
-- Sentiment - How Do I Feel About This Feature?
-- Trackers - What Are You Looking At?
-- Bookmarks - Let Me Get Back to That
+- **(TODO)** Sentiment - How Do I Feel About This Feature?
+- **(TODO)** Trackers - What Are You Looking At?
+- **(TODO)** Bookmarks - Let Me Get Back to That
   - Include Bookmark Summary
-- Conversation Groups - I Forgot About When We Last Talked About That
-- Summarization - The TDLR for Conversations
+- **(TODO)** Conversation Groups - I Forgot About When We Last Talked About That
+- **(TODO)** Summarization - The TDLR for Conversations
   - Include Summary UI (Video, Audio, Text)
 
 ### Book 2: Real-time Streaming
 
 *Training Videos Chapters:*
-- Recap Asynchronous Conversation Insights
-- Introduction to Real-Time Conversation Insight Streaming (Part 1)
+- **(TODO)** Recap Asynchronous Conversation Insights
+- **(TODO)** Introduction to Real-Time Conversation Insight Streaming (Part 1)
   - Message Recognition
   - Message Result
-- Introduction to Real-Time Conversation Insight Streaming (Part 2)
+- **(TODO)** Introduction to Real-Time Conversation Insight Streaming (Part 2)
   - Insight
   - Topic
   - Tracker
 
 ### Book 3: Programming Conversation Insight Deep Dive
 
-- Combining Async and Real-time Streaming
-- Storage - Where Do I Put This Stuff?
-- Query - How Do I Get My Stuff Back?
+- **(TODO)** Combining Async and Real-time Streaming
+- **(TODO)** Storage - Where Do I Put This Stuff?
+- **(TODO)** Query - How Do I Get My Stuff Back?
 
 > **_NOTE:_** This “Book” will come after the Implementation of the Enterprise Application
 
@@ -115,3 +150,4 @@ You can find more details about support in our [Community-enabled support proces
 [google_calendar]: https://bit.ly/3jRGEj4
 [agenda_doc]: https://bit.ly/3WH4hcO
 [community_support_process]: /process/support.md
+[design_proposal]: /design/_template_.md
