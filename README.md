@@ -4,6 +4,19 @@ Welcome to the [Symbl.ai Community][google_group]!
 
 This is the starting point for joining and contributing to Symbl.ai community projects - improving docs, improving code, giving talks, etc.
 
+## Community Meetings
+
+*You can join the Symbl.ai Community Meetings and Office Hours through the resources below.*
+
+- Join the [Symbl.ai Google Group][google_group] to get Access to the Google Calendar and Agenda Document below
+- Add the [Community Calendar][google_calendar] to your Google Calendar:
+  - Americas friendly meeting will occur every [4th Wednesday at 11am PST - Zoom link](https://us02web.zoom.us/j/89036513899?pwd=TDNoUmdCNWt4RE43RGlTc0h0aS96QT09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=11am)
+    - [Community Meeting and Office Hours Agenda Notes][agenda_doc]
+    - Meeting Recordings Link (TODO)
+  - Asia/Pacific friend meeting will occur in the evening after the Americas meeting [usually the 4th Thursday at 9am IST](https://us02web.zoom.us/j/86117993291?pwd=VW5ka1ZFWEpKN1JWcXRjdk5jTWRTQT09). [Convert to your timezone](https://dateful.com/time-zone-converter?t=10:00&tz=PT%20%28Pacific%20Time%29)
+    - [Community Meeting and Office Hours Agenda Notes][agenda_doc]
+    - Meeting Recordings Link (TODO)
+
 ## Governance
 
 To learn more about the project structure and organization, please refer to the full [Governance][project_governance] document for more details.
@@ -127,14 +140,26 @@ Semi-Official SDKs:
 3rd Party SDKs:
 - [C# SDK][c_sharp_sdk] (this project appears to have been abandoned)
 
-## Communicating and Support
+## How to Reach Us
 
 You can reach out to the Community via:
-- [Google Group][google_group] for this Community Meeting and Office Hours
-- Find us by using the [Community Calendar][google_calendar]
-- Taking a look at the [Community Meeting and Office Hours Agenda Notes][agenda_doc]. Feel free to add any agenda items!
+
+- The [Google Group Mailing List][google_group]
 - Don't want to wait? Contact us through our [Community Slack][slack]
 - If you want to do it the old fashion way, our email is community\[at\]symbl\[dot\]ai
+
+### Leadership
+
+Chairs:
+
+- David vonThenen [@dvonthenen](https://github.com/dvonthenen)
+
+Technical Leads:
+
+- Toshish Jawale [@toshish](https://github.com/toshish)
+- David vonThenen [@dvonthenen](https://github.com/dvonthenen)
+
+### Support
 
 You can find more details about support in our [Community-enabled support process][community_support_process] document. 
 
