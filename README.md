@@ -175,4 +175,4 @@ You can find more details about support in our [Community-enabled support proces
 [google_calendar]: https://bit.ly/3jRGEj4
 [agenda_doc]: https://bit.ly/3WH4hcO
 [community_support_process]: /process/support.md
-[design_proposal]: /design/_template_.md
+[design_proposal]: /design/_template.md
