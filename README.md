@@ -12,10 +12,10 @@ This is the starting point for joining and contributing to Symbl.ai community pr
 - Add the [Community Calendar][google_calendar] to your Google Calendar:
   - Americas friendly meeting will occur every [4th Wednesday at 11am PST - Zoom link](https://us02web.zoom.us/j/89036513899?pwd=TDNoUmdCNWt4RE43RGlTc0h0aS96QT09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=11am)
     - [Community Meeting and Office Hours Agenda Notes][agenda_doc]
-    - Meeting Recordings Link (TODO)
-  - Asia/Pacific friend meeting will occur in the evening after the Americas meeting [usually the 4th Thursday at 9am IST](https://us02web.zoom.us/j/86117993291?pwd=VW5ka1ZFWEpKN1JWcXRjdk5jTWRTQT09). [Convert to your timezone](https://dateful.com/time-zone-converter?t=10:00&tz=PT%20%28Pacific%20Time%29)
+    - [Meeting Recordings Link](https://www.youtube.com/playlist?list=PLheDW2BRneFZOjmoSZHApW2vhedg2wiRl)
+  - Asia/Pacific friend meeting will occur in the evening after the Americas meeting [usually the 4th Thursday at 9am IST](https://us02web.zoom.us/j/86117993291?pwd=VW5ka1ZFWEpKN1JWcXRjdk5jTWRTQT09). [Convert to your timezone](https://dateful.com/convert/indian-standard-time-ist?t=9am)
     - [Community Meeting and Office Hours Agenda Notes][agenda_doc]
-    - Meeting Recordings Link (TODO)
+    - [Meeting Recordings Link](https://www.youtube.com/playlist?list=PLheDW2BRneFZOjmoSZHApW2vhedg2wiRl)
 
 ## Governance
 
