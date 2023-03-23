@@ -37,7 +37,7 @@ Here are a collection of articles, blogs, GitHub repos, source code, etc that mi
 ### Level 1: I'm a newbie, help me out!
 
 - `[Video]` Introduction to Conversation Understanding: https://youtu.be/OZxlr32ShdY?t=1542
-- `[Video]` Introduction to the Symbl Platform (older and needs a refresh but still good): https://www.loom.com/share/36c2df84f5d944068c1cd0238944ba95
+- `[Video]` Introduction to the Symbl Platform: https://www.youtube.com/watch?v=pBGpTY7mdkg
 - More to come...
 
 ### Level 2: I'm Familiar with the Conversation Landscape, Show Me Some Code!
@@ -87,10 +87,13 @@ This initiative is about to get kicked off shortly. The intent is to provide tra
 - discuss various features, capabiilties, and aspects of the Symbl.ai Platform
 - provide a deep dive via code into each one of those topics
 
-### Book 1: Asynchronous Insights
+### Book 1: Foundational
 
-*Training Videos Chapters:*
-- **(TODO)** Symbl.ai 101 - What is Symbl.ai? What Does the Symbl Platform do?
+- [Introduction to Conversation Understanding](https://youtu.be/OZxlr32ShdY?t=1542)
+- [Symbl.ai 101 - What is Symbl.ai? What Does the Symbl Platform do?](https://www.youtube.com/watch?v=pBGpTY7mdkg)
+
+### Book 2: Asynchronous Insights
+
 - **(TODO)** Transcription - The Skeleton of a Conversation
 - **(TODO)** Redaction - I Didn’t Say That!
 - **(TODO)** Topics - What You Talkin’ About Wills?
@@ -105,9 +108,8 @@ This initiative is about to get kicked off shortly. The intent is to provide tra
 - **(TODO)** Summarization - The TDLR for Conversations
   - Include Summary UI (Video, Audio, Text)
 
-### Book 2: Real-time Streaming
+### Book 3: Real-time Streaming
 
-*Training Videos Chapters:*
 - **(TODO)** Recap Asynchronous Conversation Insights
 - **(TODO)** Introduction to Real-Time Conversation Insight Streaming (Part 1)
   - Message Recognition
@@ -117,7 +119,7 @@ This initiative is about to get kicked off shortly. The intent is to provide tra
   - Topic
   - Tracker
 
-### Book 3: Programming Conversation Insight Deep Dive
+### Book 4: Programming Conversation Insight Deep Dive
 
 - **(TODO)** Combining Async and Real-time Streaming
 - **(TODO)** Storage - Where Do I Put This Stuff?
