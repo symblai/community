@@ -94,8 +94,8 @@ This initiative is about to get kicked off shortly. The intent is to provide tra
 
 ### Book 2: Asynchronous Insights
 
-- **(TODO)** Transcription - The Skeleton of a Conversation
-- **(TODO)** Redaction - I Didn’t Say That!
+- [Transcription - The Skeleton of a Conversation](https://youtu.be/XOdHuJwCUIU)
+- [Redaction - I Didn’t Say That!](https://youtu.be/5NEJMpLvZpw)
 - **(TODO)** Topics - What You Talkin’ About Wills?
 - **(TODO)** Questions, Follow-Ups and Action Items - Oh My!
 - **(TODO)** Entities - Am I an Entity?
