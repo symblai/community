@@ -6,7 +6,7 @@ This is the starting point for joining and contributing to Symbl.ai community pr
 
 ## Community Meetings
 
-*You can join the Symbl.ai Community Meetings and Office Hours through the resources below.*
+*You can join the Symbl.ai Community Meetings through the resources below.*
 
 - Join the [Symbl.ai Google Group][google_group] to get Access to the Google Calendar and Agenda Document below
 - Add the [Community Calendar][google_calendar] to your Google Calendar:
@@ -16,6 +16,14 @@ This is the starting point for joining and contributing to Symbl.ai community pr
   - Asia/Pacific friend meeting will occur in the evening after the Americas meeting [usually the 4th Thursday at 8am IST](https://us02web.zoom.us/j/86117993291?pwd=VW5ka1ZFWEpKN1JWcXRjdk5jTWRTQT09). [Convert to your timezone](https://dateful.com/convert/indian-standard-time-ist?t=8am)
     - [Community Meeting and Office Hours Agenda Notes][agenda_doc]
     - [Meeting Recordings Link](https://www.youtube.com/playlist?list=PLheDW2BRneFZOjmoSZHApW2vhedg2wiRl)
+
+## Office Hours
+
+*You can join the Symbl.ai Office Hours through the resources below.*
+
+- Join the [Symbl.ai Google Group][google_group] to get Access to the Google Calendar and Agenda Document below
+- Add the [Community Calendar][google_calendar] to your Google Calendar:
+- Office Hours will occur every [Friday at 10am PST - Zoom link](https://us02web.zoom.us/j/83725888938?pwd=blh6eDRUdmNuNEtZUXVrTXk2TEJsZz09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=10am)
 
 ## Governance
 
