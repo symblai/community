@@ -76,6 +76,7 @@ Here are a collection of articles, blogs, GitHub repos, source code, etc that mi
 - `[Blog]` [Introducing an Easy Button for Creating a Pluggable Enterprise Conversation Application](https://symbl.ai/blog/introducing-an-easy-button-for-creating-a-pluggable-enterprise-conversation-application/)
 - `[Blog]` [Security Concerns with the Status Quo: Secure Your ML Conversation Applications](https://symbl.ai/blog/security-concerns-with-the-status-quo-secure-your-ml-conversation-applications/)
 - `[Blog]` [Understand Your Business Better with ChatGPT and Symbl.ai Platform Integration](https://symbl.ai/blog/understand-your-business-better-with-chatgpt-and-symbl-ai-platform-integration/)
+- `[Blog]` [Know the Security and Privacy Implications of Conversation Data Retention](https://symbl.ai/blog/conversation-data-retention/)
 - More to come...
 
 ## How to Contribute
