@@ -24,7 +24,7 @@ This is the starting point for joining and contributing to Symbl.ai community pr
 - Join the [Symbl.ai Google Group][google_group] to get Access to the Google Calendar and Agenda Document below
 - Add the [Community Calendar][google_calendar] to your Google Calendar:
 - Office Hours:
-  - [Tuesday at 6pm PST - Zoom link](https://us02web.zoom.us/j/82488313055?pwd=MlN4c05wTFVFR1RiNk5jN3ZlT2htQT09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=6pm)
+  - [Tuesday at 7am PST - Zoom link](https://us02web.zoom.us/j/82488313055?pwd=MlN4c05wTFVFR1RiNk5jN3ZlT2htQT09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=7am)
   - [Friday at 10am PST - Zoom link](https://us02web.zoom.us/j/83725888938?pwd=blh6eDRUdmNuNEtZUXVrTXk2TEJsZz09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=10am)
 
 ## Governance
