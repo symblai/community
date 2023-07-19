@@ -10,7 +10,7 @@ This is the starting point for joining and contributing to Symbl.ai community pr
 
 - Join the [Symbl.ai Google Group][google_group] to get Access to the Google Calendar and Agenda Document below
 - Add the [Community Calendar][google_calendar] to your Google Calendar:
-- The Community Meeting will occur every [4th Wednesday at 11am PST - Zoom link](https://us02web.zoom.us/j/89036513899?pwd=TDNoUmdCNWt4RE43RGlTc0h0aS96QT09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=11am)
+- The Community Meeting will occur every [4th Wednesday at 11am PST - Zoom link](https://symbl-ai.zoom.us/j/89036513899?pwd=TDNoUmdCNWt4RE43RGlTc0h0aS96QT09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=11am)
   - [Community Meeting Agenda and Notes][agenda_doc]
   - [Meeting Recordings Link](https://www.youtube.com/playlist?list=PLheDW2BRneFZOjmoSZHApW2vhedg2wiRl)
 
@@ -21,8 +21,8 @@ This is the starting point for joining and contributing to Symbl.ai community pr
 - Join the [Symbl.ai Google Group][google_group] to get Access to the Google Calendar and Agenda Document below
 - Add the [Community Calendar][google_calendar] to your Google Calendar:
 - Office Hours:
-  - [Tuesday at 7am PST - Zoom link](https://us02web.zoom.us/j/82488313055?pwd=MlN4c05wTFVFR1RiNk5jN3ZlT2htQT09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=7am)
-  - [Friday at 10am PST - Zoom link](https://us02web.zoom.us/j/83725888938?pwd=blh6eDRUdmNuNEtZUXVrTXk2TEJsZz09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=10am)
+  - [Tuesday at 7am PST - Zoom link](https://symbl-ai.zoom.us/j/86979217796?pwd=dEFQTldQc3h4SFplSGNNbzg3U2lsUT09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=7am)
+  - [Friday at 10am PST - Zoom link](https://symbl-ai.zoom.us/j/83725888938?pwd=blh6eDRUdmNuNEtZUXVrTXk2TEJsZz09). [Convert to your timezone](https://dateful.com/convert/pst-pdt-pacific-time?t=10am)
 
 ## Governance
 
