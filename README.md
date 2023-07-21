@@ -63,7 +63,22 @@ Here are a collection of articles, blogs, GitHub repos, source code, etc that mi
 - `[Blog]` [Symbl.ai Training Series Expands with Videos on Redaction, Transcription](https://symbl.ai/blog/symbl-ai-training-series-expands-with-videos-on-redaction-transcription/)
 - More to come...
 
-### Level 4: Advanced Topics, Code, and Stuff
+### Level 4: Generative AI, Nebula: Symbl.ai LLM, Large Language Models
+
+- `[Blog]` [Know the Security and Privacy Implications of Conversation Data Retention](https://symbl.ai/blog/conversation-data-retention/)
+- `[Blog]` [Using Symbl’s Generative AI for RevOps – Observability & Conversation Data Fidelity in your CRM](https://symbl.ai/blog/using-symbls-generative-ai-for-revops-observability-conversation-data-fidelity-in-your-crm/)
+- `[Blog]` [Symbl.ai Nebula On-Prem Summary Deployment](https://symbl.ai/blog/symbl-ai-nebula-on-prem-summary-deployment/)
+- `[Blog]` [July 26 Community Meeting: Meet Nebula, Symbl.ai’s LLM](https://symbl.ai/blog/july-26-community-meeting-meet-nebula-symbl-ais-llm/)
+- More to come...
+
+#### Level 5: Advanced Topics, Code, and Stuff
+
+- `[Blog]` [Symbl.ai LLM – Nebula Private Beta Invitation](https://symbl.ai/blog/llm-nebula-private-beta/)
+- `[Blog]` [Understand Your Business Better with ChatGPT and Symbl.ai Platform Integration](https://symbl.ai/blog/understand-your-business-better-with-chatgpt-and-symbl-ai-platform-integration/)
+- `[Blog]` [Know the Security and Privacy Implications of Conversation Data Retention](https://symbl.ai/blog/conversation-data-retention/)
+- More to come...
+
+#### Level 6: Enterprise Conversation Applications
 
 - `[Code]` GitHub repo for [Enterprise Reference Implementation](https://github.com/dvonthenen/enterprise-reference-implementation) discussed in the blog series below
 - `[Code]` GitHub repo for [Enterprise Conversation Plugins](https://github.com/dvonthenen/enterprise-conversation-plugins) discussed in the blog series below
@@ -71,9 +86,6 @@ Here are a collection of articles, blogs, GitHub repos, source code, etc that mi
 - `[Blog]` [Everything to Know About Enterprise Reference Implementation for Conversation Aggregation](https://symbl.ai/blog/everything-to-know-about-enterprise-reference-implementation-for-conversation-aggregation/)
 - `[Blog]` [Databases and Persistent Storage for Conversation Data](https://symbl.ai/blog/databases-and-persistent-storage-for-conversation-data/)
 - `[Blog]` [Introducing an Easy Button for Creating a Pluggable Enterprise Conversation Application](https://symbl.ai/blog/introducing-an-easy-button-for-creating-a-pluggable-enterprise-conversation-application/)
-- `[Blog]` [Security Concerns with the Status Quo: Secure Your ML Conversation Applications](https://symbl.ai/blog/security-concerns-with-the-status-quo-secure-your-ml-conversation-applications/)
-- `[Blog]` [Understand Your Business Better with ChatGPT and Symbl.ai Platform Integration](https://symbl.ai/blog/understand-your-business-better-with-chatgpt-and-symbl-ai-platform-integration/)
-- `[Blog]` [Know the Security and Privacy Implications of Conversation Data Retention](https://symbl.ai/blog/conversation-data-retention/)
 - More to come...
 
 ## How to Contribute
