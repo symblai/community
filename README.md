@@ -125,9 +125,9 @@ This initiative is about to get kicked off shortly. The intent is to provide tra
 
 - [Transcription - The Skeleton of a Conversation](https://youtu.be/XOdHuJwCUIU)
 - [Redaction - I Didn’t Say That!](https://youtu.be/5NEJMpLvZpw)
-- **(TODO)** Topics - What You Talkin’ About Wills?
-- **(TODO)** Questions, Follow-Ups and Action Items - Oh My!
-- **(TODO)** Entities - Am I an Entity?
+- [Topics - What You Talkin’ About Wills?](https://youtu.be/u0aWjmURhgI)
+- [Questions, Follow-Ups and Action Items - Oh My!](https://youtu.be/vsWuA-mgBuo)
+- [Entities - Am I an Entity?](https://youtu.be/6ZBYxPxc1DY)
   - Include Custom Entities
 - **(TODO)** Sentiment - How Do I Feel About This Feature?
 - **(TODO)** Trackers - What Are You Looking At?
